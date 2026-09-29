@@ -15,9 +15,7 @@
 </div>
 
 <p align="center">
-
-✨ ──────────────── ✦ ──────────────── ✨
-
+✦ ──────────────── ✧ ──────────────── ✦
 </p>
 
 <h1 align="center">Hi 👋, I'm Khushi Bhardwaj.</h1>
@@ -45,9 +43,7 @@
 </p>
 
 <p align="center">
-
-✨ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ✨
-
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
 </p>
 
 ---
@@ -149,6 +145,10 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ---
 
+<p align="center">
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+</p>
+
 # 🚀 Featured Projects
 
 <p align="center">
@@ -206,6 +206,10 @@ A machine learning project that predicts whether a business trip falls into a hi
 
 ---
 
+<p align="center">
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+</p>
+
 # 🧠 Machine Learning Journey
 
 I'm exploring machine learning beyond basic algorithms and gradually moving toward more advanced areas.
@@ -261,6 +265,24 @@ Worked on:
 
 ---
 
+<p align="center">
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+</p>
+
+# 🌌 GitHub Contribution Universe
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0" height="180" alt="GitHub Statistics"/>
+
+    
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiB03&layout=compact&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=E2E8F0" height="180" alt="Most Used Languages"/>
+
+</p>
+
+---
+
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -271,6 +293,27 @@ Worked on:
 
 ---
 
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiB03&bg_color=050816&color=C4B5FD&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KhushiB03/KhushiB03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</p>
+
+> 💡 The Snake animation requires a GitHub Actions workflow in this profile repository.
+
+---
 
 # 📊 Contribution Overview
 
@@ -281,6 +324,10 @@ Worked on:
 </p>
 
 ---
+
+<p align="center">
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+</p>
 
 # 🌱 Beyond Coding
 
@@ -312,6 +359,10 @@ I believe the best way to learn technology is to build something real with it.
 
 ---
 
+<p align="center">
+✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+</p>
+
 # 📫 Let's Connect
 
 <p align="center">
@@ -334,7 +385,7 @@ I believe the best way to learn technology is to build something real with it.
 
 <p align="center">
 
-✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦
+✦ · ˚ ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦
 
 <br><br>
 
