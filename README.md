@@ -285,27 +285,6 @@ Worked on:
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiB03&bg_color=050816&color=C4B5FD&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</p>
-
----
-
-# 🐍 My Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KhushiB03/KhushiB03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</p>
-
-> 💡 The Snake animation requires a GitHub Actions workflow in this profile repository.
-
----
 
 # 📊 Contribution Overview
 
