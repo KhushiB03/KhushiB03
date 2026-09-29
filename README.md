@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=KHUSHI BHARDWAJ%20NAME&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
