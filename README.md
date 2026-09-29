@@ -20,7 +20,7 @@
 
 </p>
 
-<h1 align="center">Hi 👋, I'm Khushi Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Khushi Bhardwaj.</h1>
 
 <h3 align="center">
 🌌 Computer Science Student • 🤖 ML Enthusiast • ⚙️ Backend Developer
@@ -54,7 +54,7 @@
 
 # 🌌 About Me
 
-I'm a **Computer Science student** passionate about building practical software and exploring **Machine Learning and Backend Development**.
+I'm a **computer science student** passionate about building practical software and exploring **machine learning and backend development**.
 
 I enjoy learning by building projects rather than only studying theory. My interests currently lie at the intersection of **software engineering, data, and intelligent systems**.
 
@@ -174,7 +174,7 @@ A full-stack image processing platform with authentication, image uploads, cloud
 
 ### 🛠️ Tech Stack
 
-`Node.js` `TypeScript` `Express.js` `MongoDB` `Multer` `Cloudinary` `Sharp` `React`
+`Node.js` `TypeScript` `MongoDB` `Cloudinary` `React`
 
 ### 🔗 Links
 
@@ -186,19 +186,19 @@ A full-stack image processing platform with authentication, image uploads, cloud
 
 ## 🌱 Carbon Emission Classifier
 
-A Machine Learning project that predicts whether a business trip falls into a high- or low-carbon category.
+A machine learning project that predicts whether a business trip falls into a high- or low-carbon category.
 
 ### ✨ Features
 
 * 📊 Data preprocessing
 * 🔍 Exploratory Data Analysis
-* 🤖 Machine Learning classification
+* 🤖 Machine learning classification
 * 📈 Feature analysis
 * 🌐 Streamlit interface
 
 ### 🛠️ Tech Stack
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `Streamlit`
+`Pandas` `XGBoost`
 
 ### 🔗 Repository
 
@@ -208,7 +208,7 @@ A Machine Learning project that predicts whether a business trip falls into a hi
 
 # 🧠 Machine Learning Journey
 
-I'm exploring Machine Learning beyond basic algorithms and gradually moving toward more advanced areas.
+I'm exploring machine learning beyond basic algorithms and gradually moving toward more advanced areas.
 
 ### 🔭 Areas I'm Exploring
 
@@ -259,11 +259,15 @@ Worked on:
 * 📈 Campaign tracking
 * 💰 Fundraising analysis
 
+---
+
 # 🌌 GitHub Contribution Universe
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0&ring_color=8B5CF6" height="180" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0" height="180" alt="GitHub Statistics"/>
+
+   
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiB03&layout=compact&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=E2E8F0" height="180" alt="Most Used Languages"/>
 
