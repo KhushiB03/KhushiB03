@@ -261,20 +261,6 @@ Worked on:
 
 ---
 
-# 🌌 GitHub Contribution Universe
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0" height="180" alt="GitHub Statistics"/>
-
-   
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiB03&layout=compact&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=E2E8F0" height="180" alt="Most Used Languages"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
