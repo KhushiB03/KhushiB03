@@ -269,18 +269,6 @@ Worked on:
 ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
 </p>
 
-# 🌌 GitHub Contribution Universe
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0" height="180" alt="GitHub Statistics"/>
-
-    
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiB03&layout=compact&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=E2E8F0" height="180" alt="Most Used Languages"/>
-
-</p>
-
 ---
 
 # 🔥 Contribution Streak
@@ -290,28 +278,6 @@ Worked on:
 <img src="https://streak-stats.demolab.com/?user=KhushiB03&hide_border=true&background=050816&ring=A78BFA&fire=F59E0B&currStreakLabel=C4B5FD&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub Contribution Streak"/>
 
 </p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiB03&bg_color=050816&color=C4B5FD&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
-
-</p>
-
----
-
-# 🐍 My Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/KhushiB03/KhushiB03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</p>
-
-> 💡 The Snake animation requires a GitHub Actions workflow in this profile repository.
 
 ---
 
