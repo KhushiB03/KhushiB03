@@ -2,7 +2,7 @@
 
 <!--                 KHUSHI BHARDWAJ                           -->
 
-<!--                 GITHUB PROFILE README                     -->
+<!--              STARLIGHT GITHUB PROFILE                     -->
 
 <!-- ========================================================= -->
 
@@ -10,11 +10,15 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=KHUSHI%20BHARDWAJ&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn&color=0:020617,50:0F172A,100:1E1B4B" width="100%" alt="Khushi Bhardwaj"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=KHUSHI%20BHARDWAJ&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn&color=0:020617,30:0B1026,60:17113B,100:312E81" width="100%" alt="Khushi Bhardwaj"/>
 
 </div>
 
-<!-- ======================= INTRO =========================== -->
+<p align="center">
+
+✨ ──────────────── ✦ ──────────────── ✨
+
+</p>
 
 <h1 align="center">Hi 👋, I'm Khushi Bhardwaj</h1>
 
@@ -23,12 +27,16 @@
 </h3>
 
 <p align="center">
+<i>Building, learning and exploring the world of intelligent systems.</i>
+</p>
+
+<p align="center">
 
 <a href="https://github.com/KhushiB03">
-<img src="https://img.shields.io/github/followers/KhushiB03?style=for-the-badge&logo=github&label=Followers&color=1E1B4B" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/KhushiB03?style=for-the-badge&logo=github&label=Followers&color=312E81" alt="GitHub Followers"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=KhushiB03&style=for-the-badge&label=PROFILE+VIEWS&color=312E81" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KhushiB03&style=for-the-badge&label=PROFILE+VIEWS&color=4C1D95" alt="Profile Views"/>
 
 <a href="https://www.linkedin.com/in/khushibhardwaj28/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,34 +44,39 @@
 
 </p>
 
+<p align="center">
+
+✨ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ˚ ✦ · ˚ ✧ · ✨
+
+</p>
+
 ---
 
 # 🌌 About Me
 
-I'm a **Computer Science student** passionate about building practical software and exploring **Machine Learning, AI, Backend Development, and Data Analytics**.
+I'm a **Computer Science student** passionate about building practical software and exploring **Machine Learning and Backend Development**.
 
 I enjoy learning by building projects rather than only studying theory. My interests currently lie at the intersection of **software engineering, data, and intelligent systems**.
 
 * 🎓 Computer Science Student
 * 🤖 Exploring Machine Learning & AI
 * ⚙️ Interested in Backend & System Development
-* 📊 Interested in Data Analytics & Insights
 * ☁️ Exploring Cloud Technologies
 * 🚀 Building practical projects
 * 🌱 Always learning something new
 
 ---
 
-# ✨ Currently Learning
+# 🌙 Currently Learning
 
 ```text
-🤖 Machine Learning
-🧠 Deep Learning
-⚙️ Backend Development
-🏗️ System Design
-☁️ Cloud Computing
-🧩 AI Agents
-📊 Data Analytics
+        ✦ Machine Learning
+        ✦ Deep Learning
+        ✦ Backend Development
+        ✦ System Design
+        ✦ Cloud Computing
+        ✦ AI Agents
+        ✦ Data Analytics
 ```
 
 ---
@@ -72,9 +85,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ## 👩‍💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,sql" alt="Python Java SQL"/>
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Programming Languages"/>
 
 </p>
 
@@ -82,9 +95,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ## 🌐 Frontend
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML CSS React Vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend Technologies"/>
 
 </p>
 
@@ -92,9 +105,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ## ⚙️ Backend
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js Express FastAPI"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies"/>
 
 </p>
 
@@ -102,9 +115,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ## 🗄️ Databases
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
 
 </p>
 
@@ -114,13 +127,13 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 
 </p>
 
 <p align="center">
 
-`NumPy` • `Pandas` • `Scikit-learn` • `XGBoost` • `Matplotlib` • `Streamlit`
+`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Streamlit`
 
 </p>
 
@@ -128,9 +141,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 
 ## ☁️ Cloud & Developer Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" alt="Git GitHub Postman VS Code Vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Developer Tools"/>
 
 </p>
 
@@ -139,7 +152,9 @@ I enjoy learning by building projects rather than only studying theory. My inter
 # 🚀 Featured Projects
 
 <p align="center">
-🌟 Projects where I learn by building real-world solutions.
+
+✦ Projects where I learn by building real-world solutions ✦
+
 </p>
 
 ---
@@ -163,9 +178,9 @@ A full-stack image processing platform with authentication, image uploads, cloud
 
 ### 🔗 Links
 
-**[🌐 Live Demo](https://image-processing-frontend-kappa.vercel.app/)**
+🌐 **[Live Demo](https://image-processing-frontend-kappa.vercel.app/)**
 
-**[💻 Repository](https://github.com/KhushiB03/Image---Processing---Service)**
+💻 **[Repository](https://github.com/KhushiB03/Image---Processing---Service)**
 
 ---
 
@@ -187,13 +202,13 @@ A Machine Learning project that predicts whether a business trip falls into a hi
 
 ### 🔗 Repository
 
-**[💻 Carbonix](https://github.com/KhushiB03/Carbonix)**
+💻 **[Carbonix](https://github.com/KhushiB03/Carbonix)**
 
 ---
 
 # 🧠 Machine Learning Journey
 
-I'm currently exploring Machine Learning beyond basic algorithms and gradually moving toward more advanced areas.
+I'm exploring Machine Learning beyond basic algorithms and gradually moving toward more advanced areas.
 
 ### 🔭 Areas I'm Exploring
 
@@ -216,7 +231,7 @@ I'm currently exploring Machine Learning beyond basic algorithms and gradually m
 * 🥇 **Women in Tech Award — Hackathon Winner**
 * 🌍 **GirlScript Summer of Code 2025 Contributor**
 * 🏅 **ET AI Hackathon — Semifinalist**
-* ☁️ **Exploring AWS & Cloud Technologies**
+* ☁️ **AWS & Cloud Technology Exploration**
 * 🎤 **Technical Events & Workshops**
 * 📚 **Continuous learning through projects and research**
 
@@ -244,4 +259,134 @@ Worked on:
 * 📈 Campaign tracking
 * 💰 Fundraising analysis
 
+# 🌌 GitHub Contribution Universe
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiB03&show_icons=true&hide_border=true&bg_color=050816&title_color=C4B5FD&icon_color=A78BFA&text_color=E2E8F0&ring_color=8B5CF6" height="180" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiB03&layout=compact&hide_border=true&bg_color=050816&title_color=C4B5FD&text_color=E2E8F0" height="180" alt="Most Used Languages"/>
+
+</p>
+
 ---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=KhushiB03&hide_border=true&background=050816&ring=A78BFA&fire=F59E0B&currStreakLabel=C4B5FD&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub Contribution Streak"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiB03&bg_color=050816&color=C4B5FD&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KhushiB03/KhushiB03/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</p>
+
+> 💡 The Snake animation requires a GitHub Actions workflow in this profile repository.
+
+---
+
+# 📊 Contribution Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiB03&theme=tokyonight" width="100%" alt="GitHub Contribution Overview"/>
+
+</p>
+
+---
+
+# 🌱 Beyond Coding
+
+When I'm not coding, I enjoy:
+
+* 📚 Reading novels
+* ✍️ Content writing
+* 🎤 Debating & public speaking
+* 🏸 Playing pickleball
+* 🌱 Exploring sustainability
+
+---
+
+# 💫 Developer Philosophy
+
+<p align="center">
+
+### ✦ Build → Learn → Experiment → Improve → Repeat ✦
+
+</p>
+
+<p align="center">
+
+<i>
+I believe the best way to learn technology is to build something real with it.
+</i>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/KhushiB03">
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/khushibhardwaj28/">
+<img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ikhushi205@gmail.com">
+<img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦
+
+<br><br>
+
+🌌 <b>Thanks for visiting my profile!</b> 🌌
+
+<br>
+
+⭐ Feel free to explore my repositories and projects.
+
+</p>
+
+<!-- ======================= FOOTER ========================== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312E81,30:17113B,65:0B1026,100:020617" width="100%" alt="Starry Night Footer"/>
+
+</div>
+
+<!-- ========================================================= -->
+
+<!--                     END OF README                         -->
+
+<!-- ========================================================= -->
