@@ -1,34 +1,8 @@
-<!-- ========================================================= -->
-
-<!--                 KHUSHI BHARDWAJ                           -->
-
-<!--              STARLIGHT GITHUB PROFILE                     -->
-
-<!-- ========================================================= -->
-
-<!-- ======================= HEADER ========================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=KHUSHI%20BHARDWAJ&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn&color=0:020617,30:0B1026,60:17113B,100:312E81" width="100%" alt="Khushi Bhardwaj"/>
 
-</div>
-
-<p align="center">
-✦ ──────────────── ✧ ──────────────── ✦
-</p>
-
-<h1 align="center">Hi 👋, I'm Khushi Bhardwaj.</h1>
-
-<h3 align="center">
-🌌 Computer Science Student • 🤖 ML Enthusiast • ⚙️ Backend Developer
-</h3>
-
-<p align="center">
-<i>Building, learning and exploring the world of intelligent systems.</i>
-</p>
-
-<p align="center">
+<br>
 
 <a href="https://github.com/KhushiB03">
 <img src="https://img.shields.io/github/followers/KhushiB03?style=for-the-badge&logo=github&label=Followers&color=312E81" alt="GitHub Followers"/>
@@ -40,248 +14,221 @@
 <img src="https://img.shields.io/badge/LinkedIn-Profile-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-</p>
+</div>
+
+<h1 align="center">Hi 👋, I'm Khushi.</h1>
+
+<h3 align="center">
+🤖 ML Enthusiast • ⚙️ Backend Developer • ☁️ Cloud Explorer
+</h3>
 
 <p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
+Building practical software while exploring machine learning, backend systems, and intelligent applications.
 </p>
 
 ---
 
 # 🌌 About Me
 
-I'm a **computer science student** passionate about building practical software and exploring **machine learning and backend development**.
+I'm a **Computer Science student** interested in the intersection of **software engineering, data, and machine learning**.
 
-I enjoy learning by building projects rather than only studying theory. My interests currently lie at the intersection of **software engineering, data, and intelligent systems**.
-
-* 🎓 Computer Science Student
-* 🤖 Exploring Machine Learning & AI
-* ⚙️ Interested in Backend & System Development
-* ☁️ Exploring Cloud Technologies
-* 🚀 Building practical projects
-* 🌱 Always learning something new
-
----
-
-# 🌙 Currently Learning
+I learn best by building — from backend APIs and full-stack applications to machine learning models and deployed projects.
 
 ```text
-        ✦ Machine Learning
-        ✦ Deep Learning
-        ✦ Backend Development
-        ✦ System Design
-        ✦ Cloud Computing
-        ✦ AI Agents
-        ✦ Data Analytics
+🎓 Computer Science
+🤖 Machine Learning & AI
+⚙️ Backend Development
+📊 Data & Analytics
+☁️ Cloud Technologies
+🚀 Project-Based Learning
 ```
+
+Currently, I'm focusing on strengthening my backend fundamentals while gradually moving deeper into **machine learning, deep learning, and AI systems**.
 
 ---
 
 # 🛠️ Tech Stack
 
-## 👩‍💻 Programming Languages
+### 👩‍💻 Languages
 
-<p align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Programming Languages"/>
+### ⚙️ Backend & APIs
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
+</p>
+
+`REST APIs` • `JWT` • `Authentication` • `API Development`
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+### 🤖 Machine Learning & Data
+
+`NumPy` • `Pandas` • `Scikit-learn` • `XGBoost` • `Matplotlib` • `Streamlit`
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" />
 </p>
 
 ---
-
-## 🌐 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark" alt="Frontend Technologies"/>
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies"/>
-
-</p>
-
----
-
-## 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
-
-</p>
-
----
-
-## 🤖 Machine Learning & Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
-
-</p>
-
-<p align="center">
-
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Streamlit`
-
-</p>
-
----
-
-## ☁️ Cloud & Developer Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Developer Tools"/>
-
-</p>
-
----
-
-<p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
-</p>
 
 # 🚀 Featured Projects
 
-<p align="center">
-
-✦ Projects where I learn by building real-world solutions ✦
-
-</p>
-
----
-
 ## 🖼️ Image Processing Service
 
-A full-stack image processing platform with authentication, image uploads, cloud storage, and image transformations.
+**Full-stack image processing platform with authentication and cloud-based image handling.**
 
-### ✨ Features
+### What I built
 
-* 🔐 JWT Authentication
-* 📤 Image Upload
-* ☁️ Cloudinary Integration
-* 🖼️ Image Processing & Transformations
-* 👤 User Authentication
-* 🌐 REST API
+* 🔐 JWT-based user authentication
+* 📤 Secure image uploads
+* ☁️ Cloudinary integration
+* 🖼️ Image transformation and processing
+* 🌐 RESTful backend APIs
+* 👤 User-specific image handling
+* 🚀 Deployed frontend
 
-### 🛠️ Tech Stack
+### Tech
 
-`Node.js` `TypeScript` `MongoDB` `Cloudinary` `React`
-
-### 🔗 Links
+`Node.js` `TypeScript` `Express` `MongoDB` `Mongoose` `Cloudinary` `Sharp` `JWT` `React` `Vite`
 
 🌐 **[Live Demo](https://image-processing-frontend-kappa.vercel.app/)**
-
-💻 **[Repository](https://github.com/KhushiB03/Image---Processing---Service)**
-
----
-
-## 🌱 Carbon Emission Classifier
-
-A machine learning project that predicts whether a business trip falls into a high- or low-carbon category.
-
-### ✨ Features
-
-* 📊 Data preprocessing
-* 🔍 Exploratory Data Analysis
-* 🤖 Machine learning classification
-* 📈 Feature analysis
-* 🌐 Streamlit interface
-
-### 🛠️ Tech Stack
-
-`Pandas` `XGBoost`
-
-### 🔗 Repository
-
-💻 **[Carbonix](https://github.com/KhushiB03/Carbonix)**
+💻 **[Source Code](https://github.com/KhushiB03/Image---Processing---Service)**
 
 ---
 
-<p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
-</p>
+## 🌱 Carbonix — Carbon Emission Classifier
+
+A machine learning application that classifies business trips into **High Carbon** or **Low Carbon** categories.
+
+### Highlights
+
+* 📊 Worked with **65K+ records**
+* 🔍 Performed exploratory data analysis
+* 🧹 Preprocessed structured data
+* 🤖 Built a classification model using XGBoost
+* 📈 Analysed important features and relationships
+* 🌐 Created a Streamlit interface
+
+### Tech
+
+`Python` `Pandas` `Scikit-learn` `XGBoost` `Streamlit`
+
+💻 **[Repository](https://github.com/KhushiB03/Carbonix)**
+
+---
+
+## 📱 Smart Phone Prediction Analysis
+
+A machine learning project exploring the relationship between **study time, phone usage, and phone addiction**.
+
+### Highlights
+
+* 📊 Feature-based data analysis
+* 🤖 Machine learning prediction
+* 📈 Model evaluation
+* 🌐 Streamlit deployment
+* 🔄 Learned a practical deployment workflow
+
+### Tech
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+---
 
 # 🧠 Machine Learning Journey
 
-I'm exploring machine learning beyond basic algorithms and gradually moving toward more advanced areas.
+My ML journey started with curiosity about how systems such as recommendation engines can learn from user behaviour.
 
-### 🔭 Areas I'm Exploring
+Since then, I've been exploring:
+
+```text
+Data
+ ↓
+Exploratory Analysis
+ ↓
+Feature Engineering
+ ↓
+Machine Learning
+ ↓
+Model Evaluation
+ ↓
+Deployment
+ ↓
+Deep Learning & AI Systems
+```
+
+### 🔭 Currently Exploring
 
 * Supervised Learning
 * Unsupervised Learning
-* Regression
-* Classification
+* Regression & Classification
 * Feature Engineering
 * Model Evaluation
-* Deep Learning
-* Neural Networks
-* Computer Vision
 * Large Datasets
+* Neural Networks
+* Deep Learning
+* Computer Vision
 * AI Agents
+
+---
+
+# 💼 Experience
+
+### 👩‍💻 Calance — Backend Intern
+
+**Backend Development**
+
+Gained practical experience working with backend development and JavaScript-based technologies while understanding how software is developed in a professional environment.
+
+---
+
+### 👩‍💻 She Can Foundation — Volunteering Intern
+
+**Data Collection • Research • Reporting**
+
+Worked on:
+
+* Data collection and organization
+* Research and reporting
+* Campaign tracking
+* Fundraising analysis
+* Supporting data-driven initiatives
 
 ---
 
 # 🏆 Achievements
 
 * 🥇 **Women in Tech Award — Hackathon Winner**
-* 🌍 **GirlScript Summer of Code 2025 Contributor**
 * 🏅 **ET AI Hackathon — Semifinalist**
-* ☁️ **AWS & Cloud Technology Exploration**
+* 🌍 **GirlScript Summer of Code 2025 Contributor**
+* ☁️ **AWS & Cloud Technology Workshops**
 * 🎤 **Technical Events & Workshops**
-* 📚 **Continuous learning through projects and research**
 
 ---
 
-# 💼 Experience
-
-## 👩‍💻 Calance — Backend Intern
-
-**Backend Development • JavaScript Frameworks**
-
-Worked on backend development and gained practical experience with JavaScript-based technologies.
-
----
-
-## 👩‍💻 She Can Foundation — Volunteering Intern
-
-**Data Collection • Research • Reporting**
-
-Worked on:
-
-* 📊 Data collection
-* 🔍 Research
-* 📝 Reporting
-* 📈 Campaign tracking
-* 💰 Fundraising analysis
-
----
-
-<p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
-</p>
-
----
-
-# 🔥 Contribution Streak
+# 📈 GitHub Activity
 
 <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=KhushiB03&hide_border=true&background=050816&ring=A78BFA&fire=F59E0B&currStreakLabel=C4B5FD&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub Contribution Streak"/>
 
 </p>
-
----
-
-# 📊 Contribution Overview
 
 <p align="center">
 
@@ -291,43 +238,34 @@ Worked on:
 
 ---
 
-<p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
-</p>
+# 🌱 Beyond Code
 
-# 🌱 Beyond Coding
-
-When I'm not coding, I enjoy:
+When I'm not building something, you'll probably find me:
 
 * 📚 Reading novels
-* ✍️ Content writing
-* 🎤 Debating & public speaking
+* ✍️ Writing
+* 🎤 Debating or speaking
 * 🏸 Playing pickleball
 * 🌱 Exploring sustainability
 
 ---
 
-# 💫 Developer Philosophy
+# ✦ My Developer Philosophy
 
 <p align="center">
 
-### ✦ Build → Learn → Experiment → Improve → Repeat ✦
+<b>Build → Break → Learn → Improve → Repeat</b>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <i>
-I believe the best way to learn technology is to build something real with it.
+I believe real understanding comes from building things, facing problems,
+and figuring out how to solve them.
 </i>
 
 </p>
 
 ---
-
-<p align="center">
-✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦ · ˚ ✧ · ˚ · ✦
-</p>
 
 # 📫 Let's Connect
 
@@ -349,30 +287,13 @@ I believe the best way to learn technology is to build something real with it.
 
 ---
 
-<p align="center">
+<div align="center">
 
-✦ · ˚ ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦ · ˚ · ✧ · ˚ · ✦
-
-<br><br>
-
-🌌 <b>Thanks for visiting my profile!</b> 🌌
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312E81,30:17113B,65:0B1026,100:020617" width="100%" alt="Footer"/>
 
 <br>
 
-⭐ Feel free to explore my repositories and projects.
-
-</p>
-
-<!-- ======================= FOOTER ========================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:312E81,30:17113B,65:0B1026,100:020617" width="100%" alt="Starry Night Footer"/>
+🌌 **Thanks for visiting!**
+⭐ *Explore my repositories and projects.*
 
 </div>
-
-<!-- ========================================================= -->
-
-<!--                     END OF README                         -->
-
-<!-- ========================================================= -->
